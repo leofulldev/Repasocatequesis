@@ -1,0 +1,115 @@
+      /* diseño responsive */
+      @media screen and (max-width: 600px) {
+        .col-25 {
+            width: 100%;
+            margin-bottom: 10px;
+        }
+    }
+    /* configuracion por defecto */
+    body {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 14px;
+      
+        background-color:#ddd ;
+       
+    }
+   
+    
+    .uno {
+        
+       text-align: left;
+       
+        max-width: fit-content;
+        max-height: fit-content;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 30px;
+        background-image: url("../img/dones.gif");
+        line-height: 1.8;
+        
+    }
+
+    .uno1 {
+        
+        text-align: left;
+        
+         max-width: fit-content;
+         max-height: fit-content;
+         font-family: Arial, Helvetica, sans-serif;
+         font-size: 30px;
+         background-image: url("../img/comunidad.gif");
+         line-height: 1.8;
+     }
+     .uno2 {
+        
+        text-align: left;
+        
+         max-width: fit-content;
+         max-height: fit-content;
+         font-family: Arial, Helvetica, sans-serif;
+         font-size: 30px;
+         background-image: url("../img/creacion.gif");
+         line-height: 1.8;
+     }
+     .uno3 {
+        
+        text-align: left;
+        
+         max-width: fit-content;
+         max-height: fit-content;
+         font-family: Arial, Helvetica, sans-serif;
+         font-size: 30px;
+         background-image: url("../img/heroes.gif");
+         line-height: 1.8;
+     }
+     .uno4 {
+        
+        text-align: left;
+        
+         max-width: fit-content;
+         max-height: fit-content;
+         font-family: Arial, Helvetica, sans-serif;
+         font-size: 30px;
+         background-image: url("../img/iglesia.gif");
+         line-height: 1.8;
+     }
+    .tbl {
+        border-collapse: collapse;
+        width: 50%;
+        margin: auto;
+        
+
+    }
+    .td1 { 
+        border: 7px solid #ddd;
+        padding: 8px;
+        text-align: left;
+        background-color: #f1f1f1;
+        margin: auto;
+    }
+    .td2 {
+        border: 7px solid #ddd;
+        padding: 8px;
+        text-align: left;
+        background-color: #f1f1f1;
+    }
+    .td3 {
+        border: 7px solid #ddd;
+        padding: 8px;
+        text-align: left;
+        background-color: #f1f1f1;
+    }
+    #ir {
+        text-align: center;
+        background-color: rgb(175, 131, 238);
+        padding: 10px;
+        margin: auto;
+        width: 50%;
+        border: 7px solid rgb(99, 9, 244);
+    }
+    .ima1 {
+        width: 100%;
+        height: auto;
+       
+        max-width: fit-content;
+        max-height: fit-content;
+    }
